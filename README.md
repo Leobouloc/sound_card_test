@@ -4,6 +4,8 @@
 
 `numpy`, `scipy`, `matplolib` (optional)
 
+(do `pip install PACKAGE_NAME`)
+
 ## Clone this repo
 
 ```
