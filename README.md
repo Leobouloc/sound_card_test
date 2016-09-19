@@ -6,8 +6,10 @@
 
 ## Clone this repo
 
-```git clone https://github.com/Leobouloc/sound_card_test.git
-cd sound_card_test```
+```
+git clone https://github.com/Leobouloc/sound_card_test.git
+cd sound_card_test
+```
 
 ## How to run:
 
